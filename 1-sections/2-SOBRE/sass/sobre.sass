@@ -13,7 +13,7 @@
         h1  // TITULO
             @extend %titulo
         span // ESCOPO TEXTO
-            width: 520px
+            width: 100%
             p // TEXTO
                 @include custom-font(1rem, #000)
                 
@@ -24,7 +24,7 @@
             @extend %titulo       
         #sobre-educacao // CARTAO
             @extend %cartao-style
-            width: 520px
+            width: 100%
             height: max-content
             span // TITULOS DO CARTAO
                 @include display-direc( flex, row, space-between, center)
@@ -47,8 +47,10 @@
             @extend %titulo
         ul // LISTA
             @include display-direc( flex, row, flex-start, center)
-            width: 520px
+            width: 100%
             list-style: none  
+            overflow-x: scroll
+            
             li // HABILIDADES
                 @include custom-font(0.8rem, #000)
                 @extend %cartao-style

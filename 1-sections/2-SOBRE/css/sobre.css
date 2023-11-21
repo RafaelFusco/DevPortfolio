@@ -45,9 +45,10 @@
   width: 80%;
   height: max-content;
   margin: 20px;
+  padding: 0px;
 }
 #sobre #sobre-mim span {
-  width: 520px;
+  width: 100%;
 }
 #sobre #sobre-mim span p {
   font-size: 1rem;
@@ -61,9 +62,10 @@
   width: 80%;
   height: max-content;
   margin: 20px;
+  padding: 0px;
 }
 #sobre #educacao #sobre-educacao {
-  width: 520px;
+  width: 100%;
   height: max-content;
 }
 #sobre #educacao #sobre-educacao span {
@@ -90,6 +92,7 @@
   width: 95%;
   height: max-content;
   margin: 10px 20px;
+  padding: 0px;
 }
 #sobre #educacao #sobre-educacao ul li {
   font-size: 0.8rem;
@@ -103,14 +106,16 @@
   width: 80%;
   height: max-content;
   margin: 20px;
+  padding: 0px;
 }
 #sobre #habilidades ul {
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
   align-items: center;
-  width: 520px;
+  width: 100%;
   list-style: none;
+  overflow-x: scroll;
 }
 #sobre #habilidades ul li {
   font-size: 0.8rem;

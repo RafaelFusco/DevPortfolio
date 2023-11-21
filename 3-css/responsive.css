@@ -1,0 +1,443 @@
+@media (max-width: 280px) {
+  #sobre #sobre-mim {
+    flex-direction: column;
+    overflow-x: scroll;
+  }
+}
+@media (max-width: 340px) {
+  #sobre #sobre-mim {
+    flex-direction: column;
+    overflow-x: scroll;
+  }
+}
+@media (max-width: 425px) {
+  #sobre #sobre-mim {
+    flex-direction: column;
+    overflow-x: scroll;
+  }
+}
+@media (max-width: 540px) {
+  #sobre #sobre-mim {
+    flex-direction: column;
+    overflow-x: scroll;
+  }
+}
+@media (max-width: 768px) and (max-height: 1024px) {
+  #sobre #sobre-mim {
+    flex-direction: column;
+    overflow-x: scroll;
+  }
+}
+@media (max-width: 820px) and (max-height: 1180px) {
+  #sobre #sobre-mim {
+    flex-direction: column;
+    overflow-x: scroll;
+  }
+}
+
+@media (max-width: 280px) {
+  #sobre #educacao {
+    flex-direction: column;
+  }
+}
+@media (max-width: 340px) {
+  #sobre #educacao {
+    flex-direction: column;
+  }
+}
+@media (max-width: 425px) {
+  #sobre #educacao {
+    flex-direction: column;
+  }
+}
+@media (max-width: 540px) {
+  #sobre #educacao {
+    flex-direction: column;
+  }
+}
+@media (max-width: 768px) and (max-height: 1024px) {
+  #sobre #educacao {
+    flex-direction: column;
+  }
+}
+@media (max-width: 820px) and (max-height: 1180px) {
+  #sobre #educacao {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 280px) {
+  #sobre #habilidades {
+    flex-direction: column;
+  }
+}
+@media (max-width: 340px) {
+  #sobre #habilidades {
+    flex-direction: column;
+  }
+}
+@media (max-width: 425px) {
+  #sobre #habilidades {
+    flex-direction: column;
+  }
+}
+@media (max-width: 540px) {
+  #sobre #habilidades {
+    flex-direction: column;
+  }
+}
+@media (max-width: 768px) and (max-height: 1024px) {
+  #sobre #habilidades {
+    flex-direction: column;
+  }
+}
+@media (max-width: 820px) and (max-height: 1180px) {
+  #sobre #habilidades {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 280px) {
+  #agrupar {
+    flex-direction: column;
+  }
+}
+@media (max-width: 340px) {
+  #agrupar {
+    flex-direction: column;
+  }
+}
+@media (max-width: 425px) {
+  #agrupar {
+    flex-direction: column;
+  }
+}
+@media (max-width: 540px) {
+  #agrupar {
+    flex-direction: column;
+  }
+}
+@media (max-width: 768px) and (max-height: 1024px) {
+  #agrupar {
+    flex-direction: column;
+  }
+}
+@media (max-width: 820px) and (max-height: 1180px) {
+  #agrupar {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 280px) {
+  #contato #separar {
+    flex-direction: column;
+  }
+}
+@media (max-width: 340px) {
+  #contato #separar {
+    flex-direction: column;
+  }
+}
+@media (max-width: 425px) {
+  #contato #separar {
+    flex-direction: column;
+  }
+}
+@media (max-width: 540px) {
+  #contato #separar {
+    flex-direction: column;
+  }
+}
+@media (max-width: 768px) and (max-height: 1024px) {
+  #contato #separar {
+    flex-direction: column;
+  }
+}
+@media (max-width: 820px) and (max-height: 1180px) {
+  #contato #separar {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 280px) {
+  #contato #links .links-info {
+    padding: 2px;
+  }
+}
+@media (max-width: 340px) {
+  #contato #links .links-info {
+    padding: 2px;
+  }
+}
+@media (max-width: 425px) {
+  #contato #links .links-info {
+    padding: 2px;
+  }
+}
+@media (max-width: 540px) {
+  #contato #links .links-info {
+    padding: 2px;
+  }
+}
+@media (max-width: 768px) and (max-height: 1024px) {
+  #contato #links .links-info {
+    padding: 2px;
+  }
+}
+@media (max-width: 820px) and (max-height: 1180px) {
+  #contato #links .links-info {
+    padding: 2px;
+  }
+}
+@media (max-width: 280px) {
+  #contato #links .links-info ul li {
+    font-size: 0.5rem;
+  }
+}
+@media (max-width: 340px) {
+  #contato #links .links-info ul li {
+    font-size: 0.5rem;
+  }
+}
+@media (max-width: 425px) {
+  #contato #links .links-info ul li {
+    font-size: 0.5rem;
+  }
+}
+@media (max-width: 540px) {
+  #contato #links .links-info ul li {
+    font-size: 0.5rem;
+  }
+}
+@media (max-width: 768px) and (max-height: 1024px) {
+  #contato #links .links-info ul li {
+    font-size: 0.5rem;
+  }
+}
+@media (max-width: 820px) and (max-height: 1180px) {
+  #contato #links .links-info ul li {
+    font-size: 0.5rem;
+  }
+}
+
+@media (max-width: 280px) {
+  #cartoes {
+    width: 100%;
+  }
+}
+@media (max-width: 340px) {
+  #cartoes {
+    width: 100%;
+  }
+}
+@media (max-width: 425px) {
+  #cartoes {
+    width: 100%;
+  }
+}
+@media (max-width: 540px) {
+  #cartoes {
+    width: 100%;
+  }
+}
+@media (max-width: 768px) and (max-height: 1024px) {
+  #cartoes {
+    width: 100%;
+  }
+}
+@media (max-width: 820px) and (max-height: 1180px) {
+  #cartoes {
+    width: 100%;
+  }
+}
+
+@media (max-width: 280px) {
+  #cartoes #cartao-proj {
+    width: 100%;
+  }
+}
+@media (max-width: 340px) {
+  #cartoes #cartao-proj {
+    width: 100%;
+  }
+}
+@media (max-width: 425px) {
+  #cartoes #cartao-proj {
+    width: 100%;
+  }
+}
+@media (max-width: 540px) {
+  #cartoes #cartao-proj {
+    width: 100%;
+  }
+}
+@media (max-width: 768px) and (max-height: 1024px) {
+  #cartoes #cartao-proj {
+    width: 100%;
+  }
+}
+@media (max-width: 820px) and (max-height: 1180px) {
+  #cartoes #cartao-proj {
+    width: 100%;
+  }
+}
+
+@media (max-width: 280px) {
+  .face {
+    width: 100%;
+  }
+}
+@media (max-width: 340px) {
+  .face {
+    width: 100%;
+  }
+}
+@media (max-width: 425px) {
+  .face {
+    width: 100%;
+  }
+}
+@media (max-width: 540px) {
+  .face {
+    width: 100%;
+  }
+}
+@media (max-width: 768px) and (max-height: 1024px) {
+  .face {
+    width: 100%;
+  }
+}
+@media (max-width: 820px) and (max-height: 1180px) {
+  .face {
+    width: 100%;
+  }
+}
+
+@media (max-width: 280px) {
+  #info-proj {
+    width: 100%;
+  }
+}
+@media (max-width: 340px) {
+  #info-proj {
+    width: 100%;
+  }
+}
+@media (max-width: 425px) {
+  #info-proj {
+    width: 100%;
+  }
+}
+@media (max-width: 540px) {
+  #info-proj {
+    width: 100%;
+  }
+}
+@media (max-width: 768px) and (max-height: 1024px) {
+  #info-proj {
+    width: 100%;
+  }
+}
+@media (max-width: 820px) and (max-height: 1180px) {
+  #info-proj {
+    width: 100%;
+  }
+}
+
+@media (max-width: 280px) {
+  #botao-flip button {
+    width: 20px;
+    height: 20px;
+  }
+}
+@media (max-width: 340px) {
+  #botao-flip button {
+    width: 20px;
+    height: 20px;
+  }
+}
+@media (max-width: 425px) {
+  #botao-flip button {
+    width: 20px;
+    height: 20px;
+  }
+}
+@media (max-width: 540px) {
+  #botao-flip button {
+    width: 20px;
+    height: 20px;
+  }
+}
+@media (max-width: 768px) and (max-height: 1024px) {
+  #botao-flip button {
+    width: 20px;
+    height: 20px;
+  }
+}
+@media (max-width: 820px) and (max-height: 1180px) {
+  #botao-flip button {
+    width: 20px;
+    height: 20px;
+  }
+}
+
+@media (max-width: 280px) {
+  #contato #separar #formulario {
+    width: 90%;
+  }
+}
+@media (max-width: 340px) {
+  #contato #separar #formulario {
+    width: 90%;
+  }
+}
+@media (max-width: 425px) {
+  #contato #separar #formulario {
+    width: 90%;
+  }
+}
+@media (max-width: 540px) {
+  #contato #separar #formulario {
+    width: 90%;
+  }
+}
+@media (max-width: 768px) and (max-height: 1024px) {
+  #contato #separar #formulario {
+    width: 90%;
+  }
+}
+@media (max-width: 820px) and (max-height: 1180px) {
+  #contato #separar #formulario {
+    width: 90%;
+  }
+}
+#contato #separar #formulario form {
+  width: 100%;
+}
+@media (max-width: 340px) {
+  #contato #separar #formulario form {
+    width: 95%;
+  }
+}
+@media (max-width: 425px) {
+  #contato #separar #formulario form {
+    width: 95%;
+  }
+}
+@media (max-width: 540px) {
+  #contato #separar #formulario form {
+    width: 95%;
+  }
+}
+@media (max-width: 768px) and (max-height: 1024px) {
+  #contato #separar #formulario form {
+    width: 95%;
+  }
+}
+@media (max-width: 820px) and (max-height: 1180px) {
+  #contato #separar #formulario form {
+    width: 95%;
+  }
+}
+
+/*# sourceMappingURL=responsive.css.map */
