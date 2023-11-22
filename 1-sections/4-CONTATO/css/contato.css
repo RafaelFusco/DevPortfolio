@@ -53,7 +53,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: max-content;
+  width: 40%;
   height: max-content;
   margin: 15px 0 25px;
   padding: 0px;
@@ -63,7 +63,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 400px;
+  width: 95%;
   height: 280px;
   margin: 0 15px;
   padding: 0px;

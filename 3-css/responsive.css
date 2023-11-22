@@ -411,8 +411,10 @@
     width: 90%;
   }
 }
-#contato #separar #formulario form {
-  width: 100%;
+@media (max-width: 280px) {
+  #contato #separar #formulario form {
+    width: 95%;
+  }
 }
 @media (max-width: 340px) {
   #contato #separar #formulario form {
